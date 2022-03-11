@@ -1,0 +1,16 @@
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\DAPPER_ORACLE.exe.config
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\DAPPER_ORACLE.exe
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\DAPPER_ORACLE.pdb
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\DAPPER_ORACLE.xml
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\Dapper.dll
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\bin\Debug\Dapper.xml
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.vbprojAssemblyReference.cache
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.Form1.resources
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.Resources.resources
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.vbproj.GenerateResource.cache
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.vbproj.CoreCompileInputs.cache
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.vbproj.CopyComplete
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.exe
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.xml
+D:\Bao\code\SourceCode\test\DAPPER_ORACLE\DAPPER_ORACLE\obj\Debug\DAPPER_ORACLE.pdb
